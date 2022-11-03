@@ -44,7 +44,6 @@ main{
     min-width: 300px;
     max-height: 1000;
     text-align: center;
-    background-color: rgb(0, 0, 0, 0.255);
     padding: 20px;
     box-shadow: 15px rgb(5, 243, 243, 0.877);
     margin: auto;
@@ -53,34 +52,37 @@ main{
     outline: 20px;
 }
 .exa{
-    color: rgb(0, 174, 255);
-    background-color: rgb(0, 0, 0, 0.255);
-    border-radius: 40px;
-    box-shadow: 5px 5px 15px rgb(5, 243, 243, 0.877);
-    width: 790px;
+    width: 50vh;
     height: 120px;
     padding: 20px;
     margin: auto;
-}
-.exa2{
     color: rgb(0, 174, 255);
     background-color: rgb(0, 0, 0, 0.255);
     border-radius: 40px;
     box-shadow: 5px 5px 15px rgb(5, 243, 243, 0.877);
-    width: 790px;
+    
+}
+.exa2{
+    width: 50vh;
     height: 270px;
     padding: 20px;
     margin: auto;
-}
-.sec{
     color: rgb(0, 174, 255);
     background-color: rgb(0, 0, 0, 0.255);
     border-radius: 40px;
     box-shadow: 5px 5px 15px rgb(5, 243, 243, 0.877);
-    width: 1500px;
+    
+}
+.sec{
+    width: 100vh;
     height: 1900px;
     padding: 20px;
     margin: auto;
+    color: rgb(0, 174, 255);
+    background-color: rgb(0, 0, 0, 0.255);
+    border-radius: 40px;
+    box-shadow: 5px 5px 15px rgb(5, 243, 243, 0.877);
+    
 }
 aside#local{
     color: rgb(0, 174, 255);
