@@ -5,5 +5,5 @@
 
 [[publish]]
  from = "/*"
- to = "/projeto.html"
+ to = "/Projeto/projeto.html"
  status = 200
